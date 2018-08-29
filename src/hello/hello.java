@@ -13,6 +13,6 @@ public class hello{
 			tel+=arr[i];
 		}
 		
-		System.out.println(tel);;
+		System.out.println(tel);
 	}
 }
